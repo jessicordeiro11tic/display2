@@ -1,0 +1,40 @@
+body {
+margin: 20px;
+}
+
+nav {
+display: block;
+margin-bottom: 15px;
+}
+
+nav a {
+display: inline-block;
+width: 70px;
+padding: 10px;
+margin-right: 5px;
+border: 1px solid black;
+text-align: center;
+}
+
+.projeto {
+display: inline-block;
+width: 150px;
+height: 110px;
+padding: 5px;
+border: 1px solid black;
+margin-right: 3px;
+vertical-align: top;
+}
+
+span {
+border: 1px solid black;
+padding: 2px;
+}
+
+footer {
+display: block;
+border: 1px solid black;
+padding: 8px;
+margin-top: 15px;
+}
+
